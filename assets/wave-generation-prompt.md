@@ -1,0 +1,6 @@
+# 海浪素材生成记录
+方式：内置 imagegen；透明背景；原创生成的浮世绘风格装饰图。
+最终文件：ukiyo-wave.png
+
+完整提示词：
+Use case: stylized-concept. Asset type: a transparent decorative illustration for the lower-right corner of a blue-paper desktop calendar. Create a beautiful isolated ocean wave in the classic Edo ukiyo-e woodblock aesthetic of Katsushika Hokusai's The Great Wave off Kanagawa. One elegant powerful curling wave crest with distinctive claw-like ivory foam fingers arching above layered curved cobalt, Prussian blue and deep indigo water ribbons, a few smaller accompanying wavelets at its base. Crisp fine dark indigo carved contour lines, subtle woodblock printing grain within the colored shapes, stylized rhythmic flow. Landscape 3:2 composition; the wave fills the center 80%, fully visible with a little transparent margin, well legible as a 230 x 160 pixel corner ornament. Palette: deep indigo outlines, muted Prussian and cobalt blue water, warm ivory foam. Truly transparent background; no rectangular white or blue backdrop. Only the isolated waves, no sky, no mountain, no boats, no people, no red seals, no calligraphy, no text, no watermark, no border. Calm refined blue-and-cream atmosphere suitable for a cozy personal planner.
